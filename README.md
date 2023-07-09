@@ -1,5 +1,5 @@
-###  <p align="center">  :wave: Hi There! My name is Zheyue Wang </p>
-<p align="center"> A future Data Scientiest :)
+###  <p align="center">  :wave: Hi There! Welcome to Zheyue's Github :v:</p>
+<p align="center"> A Future Data Scientiest :) Hopefully :slightly_smiling_face:
 
 # About Me
 -------------------
