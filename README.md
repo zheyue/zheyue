@@ -1,6 +1,6 @@
-###  ![header](https://capsule-render.vercel.app/api?type=wave&color=212F3C&height=300&section=header&text=Hi%20There%20!&fontSize=90&rotate=-30&&fontColor=FFC300)
-<p align="center">  :wave: Welcome to Zheyue's Github :v:</p>
-<p align="center"> A Future Data Scientiest :) Hopefully :slightly_smiling_face:
+###  ![header](https://capsule-render.vercel.app/api?type=wave&color=E87461&height=300&section=header&text=Hi%20There%20!&desc=Welcom%20to%20Zheyue's%20Github&fontSize=70&fontColor=FAF3DD&reversal=true&fontAlign=30)
+ 
+
 
 # About Me
 -------------------
@@ -12,9 +12,9 @@
 
 :writing_hand: Currently working on prompt testing (OpenAI api)
   
+ 
   
-  
-  
+![footer](https://capsule-render.vercel.app/api?section=footer&color=14213d)
  
   
   
